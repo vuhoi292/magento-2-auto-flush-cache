@@ -38,7 +38,7 @@ php bin/magento cache:flush
 ```
 
 ### Step 2: Result
-
+Automatically clear cache for Magento 2 was active
  ## Donation
 
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
